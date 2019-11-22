@@ -3,7 +3,7 @@ Analítica de texto para procesamiento de noticias
 
 ## Integrantes
 
-- Cristian Villamizar Ochoa - cvillam8@eafit.edu.co
+- Cristian Villamizar Ochoa - cvillam3@eafit.edu.co
 - Camilo Cruz Villegas - ccruzvi@eafit.edu.co
 
 ## Diseño
