@@ -105,6 +105,5 @@ De igual forma, se utilizan otras técnicas de análitica de datos como TF-IDF:
 **DATABRICKS**
 
 En el siguiente link se puede encontrar la solución del problema: 
-https://community.cloud.databricks.com/?o=8391199092082772#notebook/1358279811746325/command/1358279811746342
-
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8391199092082772/1358279811746325/4400674868300645/latest.html
 
